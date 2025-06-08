@@ -148,11 +148,10 @@ This tool is for educational and demonstrational use only. It should not be used
 
 ## Contributors
 
-## Author
+👤 **Fred Kibutu**
+👤 nsegecha@gmail.com
+👤 dadiusainda@gmail.com
 
-👤 **Fred Kibutu**  
-🌐 [Portfolio](https://kibutujr.github.io/Portfolio-KibutuJr/)  
-💻 [GitHub Profile: KibutuJr](https://github.com/KibutuJr/)
 
 ## License
 
